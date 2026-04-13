@@ -39,12 +39,12 @@ Database snapshot of the Brazilian SaaS order management and fulfilment platform
 
 ## Key Findings
 **Revenue & tech fit**
-- Total platform revenue: €13.3M — tech accounts for ~23% (€3.11M), with the rest non-tech (€10.48M).
+- Tech accounts for ~23% of total revenue.
 - Within tech, the top categories by revenue share are watches/gifts (38.8%), computers/accessories (29.4%), and telephony (10.4%) — categories closely aligned with the company's catalogue.
 - The large non-tech customer base signals a broad, established marketplace with room for tech growth.
 
 **Premium tech product reviews**
-- Tech products priced above €750 received average ratings of 4.3/5 in 2017 and 4.0/5 in 2018 — indicating solid customer satisfaction in the high-end segment.
+- Tech products priced above €750 received average ratings of 4.3/5 in 2017 and 4.0/5 in 2018, indicating solid customer satisfaction in the high-end segment.
 - Top revenue cities (São Paulo and Rio de Janeiro) show positive qualitative feedback specifically highlighting on-time delivery and product packaging.
 
 **Delivery performance**
@@ -57,15 +57,18 @@ Database snapshot of the Brazilian SaaS order management and fulfilment platform
 
 ## Key Learnings
 
-- Used SQL to explore an unfamiliar database from scratch — understanding the schema, data volume, and category structure before moving on to answering concrete business questions.
+**SQL**
+- Used SQL to explore an unfamiliar database from scratch.
 - Progressed from exploratory queries to more targeted analysis, translating business questions directly into SQL logic.
-- Built visualisations in Tableau to communicate findings clearly — including geographic maps, bar charts, and line charts.
-- Grew increasingly confident with Tableau throughout the project, finding that hands-on practice was the most effective way to get comfortable with the tool.
+
+**Tableau**
+- Built visualisations in Tableau.
+- Grew increasingly confident with Tableau throughout the project.
 
 ## Challenges Overcame
 
-- **Tableau formatting** — chart styling and layout took some trial and error, but online documentation and community resources provided quick solutions.
-- **Learning Tableau from scratch** — the tool has a steep initial learning curve, but working through a real dataset with real questions made the process stick. Familiarity came with practice.
+- **Tableau formatting:** chart styling and layout took some trial and error, but online documentation and community resources provided quick solutions.
+- **Learning Tableau from scratch:** the tool has a steep initial learning curve, but working through a real dataset with real questions made the process stick. Familiarity came with practice.
 
 
 ## Author
