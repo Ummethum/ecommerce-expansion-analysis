@@ -5,12 +5,12 @@
 This project was completed as part of a data analytics training programme, using a real-world business case scenario and a provided database modelled on Brazilian e-commerce data.
 
 ## Overview
-A European e-commerce company specialising in tech products and accessories is exploring expansion into Brazil — one of the fastest-growing e-commerce markets in the world, comparable in revenue to Spain and Italy. The company has one year to make the move, but lacks local knowledge, supplier relationships, and logistics infrastructure.
+A European e-commerce company specialising in tech products and accessories is exploring expansion into Brazil. The company has one year to make the move, but lacks local knowledge, supplier relationships, and logistics infrastructure.
 
 This project analyses whether partnering with a Brazilian SaaS order management and fulfilment platform is a viable entry strategy, focusing on two critical questions:
 
-1. **Is the platform a good fit for high-end tech products?** — assessing product category coverage, revenue distribution, and seller profiles.
-2. **Are deliveries fast enough?** — evaluating delivery times and their impact on customer satisfaction.
+1. **Is the platform a good fit for high-end tech products?**
+2. **Are deliveries fast enough?**
 
 ## Tools & Methods
 | Layer | Tool |
@@ -31,16 +31,16 @@ Database snapshot of the Brazilian SaaS order management and fulfilment platform
 | Customer reviews | 98,371 |
 
 ## Key Analyses
-- **Tech product revenue share** — What proportion of platform GMV comes from tech/electronics categories?
-- **Category breakdown** — Which tech subcategories drive the most revenue?
-- **Premium tech order reviews** — How are high-end tech orders (>€750) rated by customers?
-- **Delivery performance** — What share of orders arrive on time, and how long do deliveries take across Brazil?
-- **Geographic delivery patterns** — How does delivery speed vary by region?
+- **Tech product revenue share:** What proportion of platform GMV comes from tech/electronics categories?
+- **Category breakdown:** Which tech subcategories drive the most revenue?
+- **Premium tech order reviews:** How are high-end tech orders (>€750) rated by customers?
+- **Delivery performance:** What share of orders arrive on time, and how long do deliveries take across Brazil?
+- **Geographic delivery patterns:** How does delivery speed vary by region?
 
 ## Key Findings
 **Revenue & tech fit**
+- Total platform revenue: €13.3M
 - Tech accounts for ~23% of total revenue.
-- Within tech, the top categories by revenue share are watches/gifts (38.8%), computers/accessories (29.4%), and telephony (10.4%) — categories closely aligned with the company's catalogue.
 - The large non-tech customer base signals a broad, established marketplace with room for tech growth.
 
 **Premium tech product reviews**
@@ -51,7 +51,7 @@ Database snapshot of the Brazilian SaaS order management and fulfilment platform
 - 93% of orders are delivered on time.
 - Average delivery time is 13 days nationwide, ranging from ~9 days (southeast) to ~26 days (remote northern regions).
 
-**Recommendation: Yes — sign the contract**
+**Recommendation: Yes, sign the contract**
 - Strong and growing seller/customer network signals a trustworthy platform with scaling potential.
 - Delivery reliability is high, and the partnership offers a low-risk entry point to build brand awareness while the company evaluates its own supply chain options.
 
