@@ -1,4 +1,4 @@
-# ecommerce-expansion-analysis
+# Ecommerce Expansion Analysis
 SQL & Tableau analysis evaluating a SaaS logistics partner for tech product e-commerce expansion into the Brazilian market.
 
 ![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
