@@ -1,5 +1,9 @@
 # ecommerce-expansion-analysis
-> SQL & Tableau analysis evaluating a SaaS logistics partner for tech product e-commerce expansion into the Brazilian market.
+SQL & Tableau analysis evaluating a SaaS logistics partner for tech product e-commerce expansion into the Brazilian market.
+
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-Visualisation-E97627?logo=tableau&logoColor=white)
+![Google Slides](https://img.shields.io/badge/Google%20Slides-Presentation-FBBC04?logo=google-slides&logoColor=white)
 
 ## Context
 This project was completed as part of a data analytics training programme, using a real-world business case scenario and a provided database modelled on Brazilian e-commerce data.
@@ -12,13 +16,6 @@ This project analyses whether partnering with a Brazilian SaaS order management 
 1. **Is the platform a good fit for high-end tech products?**
 2. **Are deliveries fast enough?**
 
-## Tools & Methods
-| Layer | Tool |
-|---|---|
-| Data extraction & analysis | MySQL |
-| Visualisation| Tableau |
-| Presentation | Google Slides |
-
 ## Dataset
 Database snapshot of the Brazilian SaaS order management and fulfilment platform
 | Metric | Details |
@@ -29,6 +26,13 @@ Database snapshot of the Brazilian SaaS order management and fulfilment platform
 | Products | 32,951 across 74 categories |
 | Orders | 99,441 |
 | Customer reviews | 98,371 |
+
+## Project Files
+| File | Description |
+|---|---|
+| 📊 [Data (CSVs)](https://drive.google.com/drive/folders/1RgwpGQu4NweNhuEWNsX2gwopesbXAQcl?usp=drive_link) | Raw database tables used for analysis |
+| 📈 [Tableau Workbook](https://drive.google.com/drive/folders/1WMDOm2SeL952c6f4UlRafSmmEqwBYGH0?usp=drive_link) | Visualisations |
+| 📑 [Presentation](https://drive.google.com/drive/folders/1RmSylwnnU8vGYXbeZEkwLJM4uPr4pX0c?usp=drive_link) | Stakeholder slides with findings and recommendation |
 
 ## Key Analyses
 - **Tech product revenue share:** What proportion of platform GMV comes from tech/electronics categories?
@@ -73,4 +77,4 @@ Database snapshot of the Brazilian SaaS order management and fulfilment platform
 
 ## Author
 
-**Henning** · [LinkedIn](#) · [GitHub](#)
+**Henning** · [LinkedIn](https://www.linkedin.com/in/henning-ummethum/) · [GitHub](https://github.com/Ummethum)
